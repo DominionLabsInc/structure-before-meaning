@@ -5,8 +5,8 @@ substrate, and vision is built as a single faculty.**
 
 Stefan Ragland, Dominion Labs Research & Development. Published 20 May 2025.
 
-- Paper (PDF): [`paper/structure-before-meaning.pdf`](paper/structure-before-meaning.pdf)
-- Paper (web): <https://dmnlabs.org/research/structure-before-meaning/>
+- Paper: <https://dmnlabs.org/research/structure-before-meaning/>
+- Paper (offline copy): [`paper/structure-before-meaning.html`](paper/structure-before-meaning.html)
 - Contact: research@dmnlabs.org
 
 ## The position
