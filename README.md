@@ -33,6 +33,7 @@ settled. The measurements are in `data/`, and the companion paper
 | The substrate can supply the naming half | 95.8% mean naming recall over eight categories, taught from four labelled images each, with zero language model calls | [`data/perceive-eval2.json`](data/perceive-eval2.json) |
 | It abstains rather than guessing | 100% abstention on held-out non-members and zero false namings, including where the examples admitted more than one hypothesis | [`data/perceive-ambig-01.json`](data/perceive-ambig-01.json) |
 | Ambiguity is reported, not guessed away | naming only what every surviving hypothesis accepts gives zero false namings out of 192 non-members, where a permissive policy gives 26 | [`data/perceive-ambig-01.json`](data/perceive-ambig-01.json) |
+| Sight is the one entry point for what is seen | each object-like region is admitted as its own individual: over 30 images, 30 of 30 things were admitted holding every feature the faculty measured, and the categories learned over them named held-out things with zero false namings | [`data/perceive-see-01.json`](data/perceive-see-01.json) |
 | The substrate says what would settle it | the case it asks for closes the ambiguity in 16 of 16 inductions, against 1 of 16 for randomly chosen examples | [`data/perceive-ambig-02.json`](data/perceive-ambig-02.json) |
 
 Each file is the manifest its run wrote, unedited. The stimuli for these studies, and a fuller data
